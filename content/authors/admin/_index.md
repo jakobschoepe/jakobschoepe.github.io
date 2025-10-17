@@ -38,7 +38,7 @@ profiles:
 
 education:
   - area: Doctor of Philosophy (PhD), Medical Biometry
-    institution: Saarland University
+    institution: Universität des Saarlandes, Germany
     date_start: 
     date_end: 2026-12-31
     # summary: |
@@ -46,14 +46,14 @@ education:
       # text: 'Read Thesis'
       # url: 'https://example.com/thesis.pdf'
   - area: Master of Science (MSc), Health Sciences
-    institution: Vrije Universiteit Amsterdam
+    institution: Vrije Universiteit Amsterdam, The Netherlands
     date_start:
     date_end: 2014-08-31
     # summary: |
    
 work:
   - position: Statistician
-    company_name: Astrum CRO Germany GmbH
+    company_name: Astrum CRO Germany GmbH, Germany
     company_url: ''
     company_logo: ''
     date_start: 2023-04-01
@@ -61,7 +61,7 @@ work:
     # summary: |2-
       # Serve as the primary statistical point of contact for internal teams and external stakeholders, providing expert guidance on study design, analyses, and statistical deliverables.  
   - position: Research Associate
-    company_name: Saarland University
+    company_name: Universität des Saarlandes, Germany
     company_url: ''
     company_logo: ''
     date_start: 2014-10-01
