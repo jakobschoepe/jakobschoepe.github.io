@@ -51,7 +51,7 @@ sections:
     design:
       view: card
   - block: collection
-    id: blog
+    id: news
     content:
       title: Recent Blog Posts
       subtitle: ''
